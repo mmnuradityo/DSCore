@@ -36,7 +36,7 @@ class GameMapper {
       rating: entity.rating,
       releaseDate: DateUtils.generateDate(dateString: entity.releaseDate),
       posterPath: entity.posterPath,
-      description: entity.description,
+      description: entity.gameDescription,
       genre: entity.genre,
       reviewsCount: entity.reviewsCount,
       isFavorite: entity.isFavorite

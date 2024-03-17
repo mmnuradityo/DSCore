@@ -10,6 +10,15 @@
       }
     },
     {
+      "identity" : "cleanse",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/square/Cleanse.git",
+      "state" : {
+        "revision" : "c854787f83d99527587b5387f04ccd0030e6133a",
+        "version" : "4.2.6"
+      }
+    },
+    {
       "identity" : "realm-core",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/realm/realm-core.git",
